@@ -1,0 +1,8 @@
+code admin pour ecf word presse karim 
+
+id:karim
+pass:karim
+
+id wamp:
+user:root
+mdp:
